@@ -3,9 +3,9 @@ A simple and intuitive alarm clock app for Android devices, built using Java.
 
 Alarm Clock Android App is an open-source project providing a customizable and intuitive alarm clock experience for Android devices. Utilizing Java and Android SDK, this project offers features like repeat alarms, snooze functionality, and customizable notifications. Designed for simplicity and efficiency, the app ensures seamless wake-up experiences. 
 
-![1 Screenshot_20241027_182433](https://github.com/user-attachments/assets/3a4ee674-955f-44fd-bf5a-6a62684c9d49)
+##### ![1 Screenshot_20241027_182433](https://github.com/user-attachments/assets/3a4ee674-955f-44fd-bf5a-6a62684c9d49)
 
-![3 Screenshot_20241027_214055](https://github.com/user-attachments/assets/40783c34-13fa-4caf-9554-820461eb6adb)
+##### ![3 Screenshot_20241027_214055](https://github.com/user-attachments/assets/40783c34-13fa-4caf-9554-820461eb6adb)
 
 
 
